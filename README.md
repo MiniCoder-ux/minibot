@@ -1,4 +1,4 @@
-beta telegrambotapi my library minibot\n
+beta telegrambotapi my library minibot
 <p>install network.py,main.py
 create folder minibot!!
 file from folder minibot
